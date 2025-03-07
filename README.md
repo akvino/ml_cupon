@@ -1,5 +1,6 @@
 # ml_cupon
  Amazon Cupon Analysis
+  
  
 Summary:
  
@@ -23,7 +24,7 @@ Restaurant(20-50) Coupon: The best target is customers with Some High School edu
 
 Restaurant(<20) Coupon: The data indicates that ideal customers have Some college with no degree (74.22%), are Single (72.99%), and work in Protective Service (89.47%). Their coupon should be delivered at 6PM, complemented by income levels of 62,499 (78.25%) and age of 46 (75.68%).
  
- 
+ Jupyter Notebook Link: https://github.com/akvino/ml_cupon/blob/main/AmazonCouponAnalysis.ipynb
  
 Project Context:
 
